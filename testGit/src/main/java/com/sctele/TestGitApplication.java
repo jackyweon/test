@@ -33,6 +33,10 @@ public class TestGitApplication {
 	public void branch03() {
 		System.out.println("branch03");
 	}
+	
+	public void branch06() {
+		System.out.println("branch06");
+	}
 
 	public void branch04() {
 		System.out.println("branch04");

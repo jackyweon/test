@@ -11,4 +11,8 @@ public class TestGitApplication {
 		System.out.println("这是分支01的代码");
 		SpringApplication.run(TestGitApplication.class, args);
 	}
+
+	private void test() {
+		System.out.println("test");
+	}
 }

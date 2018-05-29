@@ -34,4 +34,8 @@ public class TestGitApplication {
 		System.out.println("branch03");
 	}
 
+	public void branch04() {
+		System.out.println("branch04");
+	}
+
 }

@@ -9,6 +9,7 @@ public class TestGitApplication {
 	public static void main(String[] args) {
 		System.out.println("这是分支的代码");
 		System.out.println("这是分支01的代码");
+		System.out.println("这是分支02的代码");
 		SpringApplication.run(TestGitApplication.class, args);
 	}
 
@@ -18,5 +19,9 @@ public class TestGitApplication {
 
 	public void master() {
 		System.out.println("master");
+	}
+
+	public void branch() {
+		System.out.println("branch");
 	}
 }

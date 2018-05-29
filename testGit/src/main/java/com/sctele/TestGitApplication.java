@@ -18,4 +18,8 @@ public class TestGitApplication {
 	public void branch() {
 		System.out.println("branch");
 	}
+	
+	public void branch02() {
+		System.out.println("branch02");
+	}
 }

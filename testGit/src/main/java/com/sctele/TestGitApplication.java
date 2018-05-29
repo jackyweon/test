@@ -10,4 +10,8 @@ public class TestGitApplication {
 		System.out.println("这是分支的代码");
 		SpringApplication.run(TestGitApplication.class, args);
 	}
+
+	public void master() {
+		System.out.println("master");
+	}
 }
